@@ -54,7 +54,7 @@ class ProductTest extends PHPUnit\Framework\TestCase{
 
 
 	/** 
-		This test handle the product quantity check 
+		This test handle the product quantity check is done
 	**/
 	public function testQuantity(){
 		$product = new src\Product;
